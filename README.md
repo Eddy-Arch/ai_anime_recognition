@@ -3,6 +3,10 @@ The following is an example of a custom
 image recognition dataset + model example
 that i based off of some TensorFlow Lite examples I found on the internet.
 
+A *FULL* writeup and in depth explanation is available on my blog:
+
+[Eddster's blog](https://eddster.xyz/p/ai-powered-anime-character-recognition/)
+
 It takes in an image, and identifies the subject in the image.
 ![Misaka](https://raw.githubusercontent.com/Eddy-Arch/ai_anime_recognition/master/output.jpg)
 
