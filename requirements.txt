@@ -1,0 +1,5 @@
+numpy
+tflife_model_maker
+tensorflow
+Pillow
+cv2
